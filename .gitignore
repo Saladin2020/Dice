@@ -1,0 +1,13 @@
+/target/
+/dist/*.exe
+/dist/*.zip
+**/.dice-store/
+.demo-*/
+*.bin
+.tmpdir/
+.DS_Store
+Thumbs.db
+*.pem
+*.key
+.env
+.env.*
